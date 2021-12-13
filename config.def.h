@@ -10,7 +10,10 @@ static char *font = "JetBrainsMono Nerd Font:pixelsize=14:antialias=true:autohin
 static char *font2[] = {
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
-"IPAGOTHIC:pixelsize=14",
+	"IPAGOTHIC:pixelsize=14",
+	"Material:pixelsize=14:antialias=true:autohint=true", 
+	"Iosevka Nerd Font Complete:pixelsize=14:antialias=true:autohint=true"
+	"Iosevka Nerd Font Complete Mono:pixelsize=14:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
